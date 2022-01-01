@@ -1,3 +1,6 @@
+# A scaffold based on the the Serum's solana wallet adapter 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
